@@ -43,7 +43,7 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 
 ## Contact
 For any questions, suggestions, or feedback, please reach out to us:
-- Email: [contact@nuclei-global.com](mailto:contact@nuclei-global.com)
+- Email: [support@nuclei-global.com](mailto:support@nuclei-global.com)
 - Website: [https://www.nuclei-global.com](https://www.nuclei-global.com)
 
 ---
